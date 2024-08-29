@@ -3,6 +3,6 @@ name: crossplane
 description: A Helm chart for Crossplane
 version: 0.1.0
 dependencies:
-  - name: crossplane-stable
+  - name: crossplane
     repository: https://charts.crossplane.io/stable
     version: 1.18.0-rc.0.14.g4a512939
