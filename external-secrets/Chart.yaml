@@ -1,0 +1,8 @@
+apiVersion: v2 #test
+name: external-secrets-operator
+description: A Helm chart for External Secrets
+version: 0.1.0
+dependencies:
+  - name: external-secrets
+    repository: https://charts.external-secrets.io
+    version: 0.10.2
