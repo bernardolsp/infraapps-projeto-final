@@ -1,0 +1,4 @@
+apiVersion: v2 #test
+name: crossplane-aws-resources
+description: A Helm chart for Crossplane deps
+version: 0.1.0
