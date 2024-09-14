@@ -6,4 +6,4 @@ metadata:
     argocd.argoproj.io/sync-wave: "4"
 spec:
   credentials:
-    source: InjectedIdentity
+    source: IRSA
